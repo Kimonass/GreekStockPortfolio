@@ -1,1 +1,1 @@
-# GreekStockPortfolio.com
+# GreekStockPortfolio
