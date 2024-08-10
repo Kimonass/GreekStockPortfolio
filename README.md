@@ -1,1 +1,1 @@
-# Data Driven Portfolio Allocation (Greek Stock Market Analysis)
+# Data Driven Portfolio Allocation (Greek Stock Market)
